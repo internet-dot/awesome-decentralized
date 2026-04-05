@@ -21,6 +21,7 @@ Please read the [contribution guidelines](contributing.md) to contribute.
 * [Tor](https://www.torproject.org/) - Anonymous network proxy.
 
 ### Communications
+* [Hashgraph Online (HOL)](https://hol.org): Universal agent registry for decentralized AI agent identity and P2P communication.
 
 * [BitMessage](https://en.wikipedia.org/wiki/Bitmessage) - Anonymous encrypted message broadcasting.
 * [Identifi](https://github.com/identifi/identifi) - Distributed identity and reputation store.
